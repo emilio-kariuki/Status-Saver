@@ -1,0 +1,46 @@
+name: status_saver
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.0.2 <4.0.0"
+
+dependencies:
+  cached_network_image: ^3.2.3
+  chewie: ^1.5.0
+  flutter:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_api: ^0.0.1
+  flutter_native_splash: ^2.3.0
+  flutter_speed_dial: ^7.0.0
+  flutter_vlc_player: ^7.2.0
+  gallery_saver: ^2.3.2
+  google_fonts: ^4.0.4
+  path_provider: ^2.0.15
+  permission_handler: ^10.2.0
+  provider: ^6.0.5
+  video_player: ^2.6.1
+  video_thumbnail: ^0.5.3
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "lib/Assets/splash.png"
+  min_sdk_android: 21 # android min sdk
+
+flutter_native_splash:
+  image: "lib/Assets/splash.png"
+  color: "#204F46"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/Assets/
+   
