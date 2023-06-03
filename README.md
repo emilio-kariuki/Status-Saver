@@ -1,6 +1,6 @@
 # Flutter Status Saver
 
-Flutter Status Saver is a mobile application built with Flutter and the Provider state management package. It enables users to easily save and manage statuses from popular social media platforms (whatsapp for now)
+Status Saver is a mobile application built with Flutter and the Provider state management package. It enables users to easily save and manage statuses from popular social media platforms (whatsapp for now).
 
 ## Features
 
