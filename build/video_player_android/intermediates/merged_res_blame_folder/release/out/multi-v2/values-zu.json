@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "io.flutter.plugins.videoplayer.video_player_android-mergeReleaseResources-10:/values-zu/values-zu.xml",
+            "map": [
+                {
+                    "source": "/Users/emilio/.gradle/caches/transforms-3/92b378fed2c7ad5d0dc31b9e1ebba952/transformed/core-1.7.0/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "710",
+                        "endColumns": "100",
+                        "endOffsets": "806"
+                    }
+                },
+                {
+                    "source": "/Users/emilio/.gradle/caches/transforms-3/31ca3cba99de61d8e796213014c1b16c/transformed/jetified-exoplayer-core-2.18.7/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,183,245,314,391,471,560,641",
+                        "endColumns": "68,58,61,68,76,79,88,80,68",
+                        "endOffsets": "119,178,240,309,386,466,555,636,705"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "io.flutter.plugins.videoplayer.video_player_android-merged_res-12:/values-zu/values-zu.xml",
+            "map": [
+                {
+                    "source": "/Users/emilio/.gradle/caches/transforms-3/92b378fed2c7ad5d0dc31b9e1ebba952/transformed/core-1.7.0/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "710",
+                        "endColumns": "100",
+                        "endOffsets": "806"
+                    }
+                },
+                {
+                    "source": "/Users/emilio/.gradle/caches/transforms-3/31ca3cba99de61d8e796213014c1b16c/transformed/jetified-exoplayer-core-2.18.7/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,183,245,314,391,471,560,641",
+                        "endColumns": "68,58,61,68,76,79,88,80,68",
+                        "endOffsets": "119,178,240,309,386,466,555,636,705"
+                    }
+                }
+            ]
+        }
+    ]
+}

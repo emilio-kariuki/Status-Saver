@@ -1,0 +1,12 @@
+io.github.ponnamkarthik.toast.fluttertoast-jetified-window-java-1.0.0-beta04-0 /Users/emilio/.gradle/caches/transforms-3/2bd4bcf7edde35867619ac3bea578f90/transformed/jetified-window-java-1.0.0-beta04/res
+io.github.ponnamkarthik.toast.fluttertoast-jetified-window-1.0.0-beta04-1 /Users/emilio/.gradle/caches/transforms-3/518111e08d93c16bc666f5016f25f03d/transformed/jetified-window-1.0.0-beta04/res
+io.github.ponnamkarthik.toast.fluttertoast-core-1.6.0-2 /Users/emilio/.gradle/caches/transforms-3/9ae990dd2d4353842bc15594b2d8f0d6/transformed/core-1.6.0/res
+io.github.ponnamkarthik.toast.fluttertoast-jetified-annotation-experimental-1.1.0-3 /Users/emilio/.gradle/caches/transforms-3/cdf1e8c032ad5a7eddaa93f9b56918b8/transformed/jetified-annotation-experimental-1.1.0/res
+io.github.ponnamkarthik.toast.fluttertoast-main-4 /Users/emilio/.pub-cache/hosted/pub.dev/fluttertoast-8.2.2/android/src/main/res
+io.github.ponnamkarthik.toast.fluttertoast-release-5 /Users/emilio/.pub-cache/hosted/pub.dev/fluttertoast-8.2.2/android/src/release/res
+io.github.ponnamkarthik.toast.fluttertoast-pngs-6 /Users/emilio/Projects/status_saver_bloc/build/fluttertoast/generated/res/pngs/release
+io.github.ponnamkarthik.toast.fluttertoast-resValues-7 /Users/emilio/Projects/status_saver_bloc/build/fluttertoast/generated/res/resValues/release
+io.github.ponnamkarthik.toast.fluttertoast-rs-8 /Users/emilio/Projects/status_saver_bloc/build/fluttertoast/generated/res/rs/release
+io.github.ponnamkarthik.toast.fluttertoast-mergeReleaseResources-9 /Users/emilio/Projects/status_saver_bloc/build/fluttertoast/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.github.ponnamkarthik.toast.fluttertoast-mergeReleaseResources-10 /Users/emilio/Projects/status_saver_bloc/build/fluttertoast/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.github.ponnamkarthik.toast.fluttertoast-merged_res-11 /Users/emilio/Projects/status_saver_bloc/build/fluttertoast/intermediates/merged_res/release

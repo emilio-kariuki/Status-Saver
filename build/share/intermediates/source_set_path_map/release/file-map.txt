@@ -1,0 +1,12 @@
+io.flutter.plugins.share-jetified-window-java-1.0.0-beta04-0 /Users/emilio/.gradle/caches/transforms-3/2bd4bcf7edde35867619ac3bea578f90/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.share-jetified-window-1.0.0-beta04-1 /Users/emilio/.gradle/caches/transforms-3/518111e08d93c16bc666f5016f25f03d/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.share-core-1.6.0-2 /Users/emilio/.gradle/caches/transforms-3/9ae990dd2d4353842bc15594b2d8f0d6/transformed/core-1.6.0/res
+io.flutter.plugins.share-jetified-annotation-experimental-1.1.0-3 /Users/emilio/.gradle/caches/transforms-3/cdf1e8c032ad5a7eddaa93f9b56918b8/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.share-main-4 /Users/emilio/.pub-cache/hosted/pub.dev/share-2.0.4/android/src/main/res
+io.flutter.plugins.share-release-5 /Users/emilio/.pub-cache/hosted/pub.dev/share-2.0.4/android/src/release/res
+io.flutter.plugins.share-pngs-6 /Users/emilio/Projects/status_saver_bloc/build/share/generated/res/pngs/release
+io.flutter.plugins.share-resValues-7 /Users/emilio/Projects/status_saver_bloc/build/share/generated/res/resValues/release
+io.flutter.plugins.share-rs-8 /Users/emilio/Projects/status_saver_bloc/build/share/generated/res/rs/release
+io.flutter.plugins.share-mergeReleaseResources-9 /Users/emilio/Projects/status_saver_bloc/build/share/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.share-mergeReleaseResources-10 /Users/emilio/Projects/status_saver_bloc/build/share/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.share-merged_res-11 /Users/emilio/Projects/status_saver_bloc/build/share/intermediates/merged_res/release

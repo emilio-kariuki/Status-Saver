@@ -1,0 +1,300 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:11:5-41:19
+MERGED from [:share] /Users/emilio/Projects/status_saver_bloc/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-17:19
+MERGED from [:share] /Users/emilio/Projects/status_saver_bloc/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-17:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/emilio/.gradle/caches/transforms-3/518111e08d93c16bc666f5016f25f03d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/emilio/.gradle/caches/transforms-3/518111e08d93c16bc666f5016f25f03d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.7.0] /Users/emilio/.gradle/caches/transforms-3/92b378fed2c7ad5d0dc31b9e1ebba952/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/emilio/.gradle/caches/transforms-3/92b378fed2c7ad5d0dc31b9e1ebba952/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/emilio/.gradle/caches/transforms-3/6f6c99620269cf0645b8cf4d98dca92d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/emilio/.gradle/caches/transforms-3/6f6c99620269cf0645b8cf4d98dca92d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/emilio/.gradle/caches/transforms-3/92b378fed2c7ad5d0dc31b9e1ebba952/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:12:9-37
+	android:icon
+		ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:14:9-43
+	android:name
+		INJECTED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:13:9-42
+manifest
+ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:1:1-42:12
+MERGED from [:shared_preferences_android] /Users/emilio/Projects/status_saver_bloc/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:video_thumbnail] /Users/emilio/Projects/status_saver_bloc/build/video_thumbnail/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:permission_handler_android] /Users/emilio/Projects/status_saver_bloc/build/permission_handler_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:fluttertoast] /Users/emilio/Projects/status_saver_bloc/build/fluttertoast/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] /Users/emilio/Projects/status_saver_bloc/build/path_provider_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:share] /Users/emilio/Projects/status_saver_bloc/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-19:12
+MERGED from [:video_player_android] /Users/emilio/Projects/status_saver_bloc/build/video_player_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:gallery_saver] /Users/emilio/Projects/status_saver_bloc/build/gallery_saver/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/emilio/.gradle/caches/transforms-3/2bd4bcf7edde35867619ac3bea578f90/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/emilio/.gradle/caches/transforms-3/518111e08d93c16bc666f5016f25f03d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.7] /Users/emilio/.gradle/caches/transforms-3/86988d7d063eb46cbcdc8702db01d2eb/transformed/jetified-exoplayer-hls-2.18.7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.7] /Users/emilio/.gradle/caches/transforms-3/347e879f3a63557fbe26f7fecd1bdbc0/transformed/jetified-exoplayer-dash-2.18.7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.7] /Users/emilio/.gradle/caches/transforms-3/51a81a722a03c3a90e95ffdf8d1b0100/transformed/jetified-exoplayer-smoothstreaming-2.18.7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.7] /Users/emilio/.gradle/caches/transforms-3/31ca3cba99de61d8e796213014c1b16c/transformed/jetified-exoplayer-core-2.18.7/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/emilio/.gradle/caches/transforms-3/96049cdfed414b58db41817ecf0534ab/transformed/jetified-core-ktx-1.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/emilio/.gradle/caches/transforms-3/18df05c74298feb88d6a6415ab8ca258/transformed/exifinterface-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/emilio/.gradle/caches/transforms-3/daef1c46c5f1c9f0fe051f3265addf3e/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/emilio/.gradle/caches/transforms-3/269adfa1b60313c22b974397920000a0/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/emilio/.gradle/caches/transforms-3/4ec042ae2974a7a0735612fda955810d/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/emilio/.gradle/caches/transforms-3/b1cb880a7ed2186f43f516aeca0f147c/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/emilio/.gradle/caches/transforms-3/8c0e76404b5e9cdabe615ac57fccce89/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/emilio/.gradle/caches/transforms-3/5ab69d4e108a7a01e579646b22f283d1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/emilio/.gradle/caches/transforms-3/fdf58d8f9282181c066480e9b34b1a37/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/emilio/.gradle/caches/transforms-3/6639e39c66392f5266da5f49166271b3/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/emilio/.gradle/caches/transforms-3/c134699258f343d8318c0c61e15c52ac/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/emilio/.gradle/caches/transforms-3/255119093be46a18e602228787ca2e20/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/emilio/.gradle/caches/transforms-3/a2d6d43d759a16e078280524cb27f9a7/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/emilio/.gradle/caches/transforms-3/610d48d6f0786fc2754c5ab8442fde56/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/emilio/.gradle/caches/transforms-3/b748112f73bd80e1291ddf6dcc14fe52/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/emilio/.gradle/caches/transforms-3/a30b261e563c45430550698c4a5498df/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/emilio/.gradle/caches/transforms-3/6d6a02cd04bc02d41ee60ef7dca5f168/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/emilio/.gradle/caches/transforms-3/92b378fed2c7ad5d0dc31b9e1ebba952/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.7] /Users/emilio/.gradle/caches/transforms-3/d3610de1296d77f601741f88f400f9fb/transformed/jetified-exoplayer-datasource-2.18.7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.7] /Users/emilio/.gradle/caches/transforms-3/951f6eacc45c4e0682f7ce0c62d7586f/transformed/jetified-exoplayer-extractor-2.18.7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.7] /Users/emilio/.gradle/caches/transforms-3/b30703af6f3a8d8e5064d25f75617de0/transformed/jetified-exoplayer-decoder-2.18.7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.7] /Users/emilio/.gradle/caches/transforms-3/f5f67325390bda71f6659e8d38c6c560/transformed/jetified-exoplayer-database-2.18.7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.7] /Users/emilio/.gradle/caches/transforms-3/9354730f886cca1c166eb08d35814319/transformed/jetified-exoplayer-common-2.18.7/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/emilio/.gradle/caches/transforms-3/6f6c99620269cf0645b8cf4d98dca92d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/emilio/.gradle/caches/transforms-3/d527349b99caec46f6a37ce2d52a171e/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/emilio/.gradle/caches/transforms-3/a2738b89791afdebeaf2f7eba04cd3ca/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/emilio/.gradle/caches/transforms-3/2e26f5f4343ced41f38ab6f6d0607e9e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/emilio/.gradle/caches/transforms-3/639b829122509808ff6ab88542ed517c/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/emilio/.gradle/caches/transforms-3/56b52afad4fcfc01287173610f91042f/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/emilio/.gradle/caches/transforms-3/22670db4e2b57ab0d82176a7a68de36a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/emilio/.gradle/caches/transforms-3/8d03a0b64560754b8a48fcfc51e947ae/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/emilio/.gradle/caches/transforms-3/5338b61fb9219c159361b89580f08771/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/emilio/.gradle/caches/transforms-3/eac0a55363fb8f08c3b6673c65baf6fc/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/emilio/.gradle/caches/transforms-3/31044b20c555ee37543c9e3af10d65f9/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/emilio/.gradle/caches/transforms-3/33e08ea0cc9fd5d059167265056b1f01/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/emilio/.gradle/caches/transforms-3/cdf1e8c032ad5a7eddaa93f9b56918b8/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:1:1-42:12
+	package
+		INJECTED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:1:1-42:12
+		INJECTED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:1:1-42:12
+		INJECTED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:1:1-42:12
+		INJECTED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:3:5-66
+	android:name
+		ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:3:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:4:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:6:22-74
+uses-permission#android.permission.MANAGE_EXTERNAL_STORAGE
+ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:7:5-9:38
+	android:minSdkVersion
+		ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:9:9-35
+	android:name
+		ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:8:9-66
+uses-sdk
+INJECTED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml
+MERGED from [:shared_preferences_android] /Users/emilio/Projects/status_saver_bloc/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] /Users/emilio/Projects/status_saver_bloc/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:video_thumbnail] /Users/emilio/Projects/status_saver_bloc/build/video_thumbnail/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:video_thumbnail] /Users/emilio/Projects/status_saver_bloc/build/video_thumbnail/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler_android] /Users/emilio/Projects/status_saver_bloc/build/permission_handler_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler_android] /Users/emilio/Projects/status_saver_bloc/build/permission_handler_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /Users/emilio/Projects/status_saver_bloc/build/fluttertoast/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /Users/emilio/Projects/status_saver_bloc/build/fluttertoast/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/emilio/Projects/status_saver_bloc/build/path_provider_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/emilio/Projects/status_saver_bloc/build/path_provider_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:share] /Users/emilio/Projects/status_saver_bloc/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:share] /Users/emilio/Projects/status_saver_bloc/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:video_player_android] /Users/emilio/Projects/status_saver_bloc/build/video_player_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:video_player_android] /Users/emilio/Projects/status_saver_bloc/build/video_player_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:gallery_saver] /Users/emilio/Projects/status_saver_bloc/build/gallery_saver/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:gallery_saver] /Users/emilio/Projects/status_saver_bloc/build/gallery_saver/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/emilio/.gradle/caches/transforms-3/2bd4bcf7edde35867619ac3bea578f90/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/emilio/.gradle/caches/transforms-3/2bd4bcf7edde35867619ac3bea578f90/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/emilio/.gradle/caches/transforms-3/518111e08d93c16bc666f5016f25f03d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/emilio/.gradle/caches/transforms-3/518111e08d93c16bc666f5016f25f03d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.7] /Users/emilio/.gradle/caches/transforms-3/86988d7d063eb46cbcdc8702db01d2eb/transformed/jetified-exoplayer-hls-2.18.7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.7] /Users/emilio/.gradle/caches/transforms-3/86988d7d063eb46cbcdc8702db01d2eb/transformed/jetified-exoplayer-hls-2.18.7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.7] /Users/emilio/.gradle/caches/transforms-3/347e879f3a63557fbe26f7fecd1bdbc0/transformed/jetified-exoplayer-dash-2.18.7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.7] /Users/emilio/.gradle/caches/transforms-3/347e879f3a63557fbe26f7fecd1bdbc0/transformed/jetified-exoplayer-dash-2.18.7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.7] /Users/emilio/.gradle/caches/transforms-3/51a81a722a03c3a90e95ffdf8d1b0100/transformed/jetified-exoplayer-smoothstreaming-2.18.7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.7] /Users/emilio/.gradle/caches/transforms-3/51a81a722a03c3a90e95ffdf8d1b0100/transformed/jetified-exoplayer-smoothstreaming-2.18.7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.7] /Users/emilio/.gradle/caches/transforms-3/31ca3cba99de61d8e796213014c1b16c/transformed/jetified-exoplayer-core-2.18.7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.7] /Users/emilio/.gradle/caches/transforms-3/31ca3cba99de61d8e796213014c1b16c/transformed/jetified-exoplayer-core-2.18.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/emilio/.gradle/caches/transforms-3/96049cdfed414b58db41817ecf0534ab/transformed/jetified-core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/emilio/.gradle/caches/transforms-3/96049cdfed414b58db41817ecf0534ab/transformed/jetified-core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/emilio/.gradle/caches/transforms-3/18df05c74298feb88d6a6415ab8ca258/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/emilio/.gradle/caches/transforms-3/18df05c74298feb88d6a6415ab8ca258/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/emilio/.gradle/caches/transforms-3/daef1c46c5f1c9f0fe051f3265addf3e/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/emilio/.gradle/caches/transforms-3/daef1c46c5f1c9f0fe051f3265addf3e/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/emilio/.gradle/caches/transforms-3/269adfa1b60313c22b974397920000a0/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/emilio/.gradle/caches/transforms-3/269adfa1b60313c22b974397920000a0/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/emilio/.gradle/caches/transforms-3/4ec042ae2974a7a0735612fda955810d/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/emilio/.gradle/caches/transforms-3/4ec042ae2974a7a0735612fda955810d/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/emilio/.gradle/caches/transforms-3/b1cb880a7ed2186f43f516aeca0f147c/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/emilio/.gradle/caches/transforms-3/b1cb880a7ed2186f43f516aeca0f147c/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/emilio/.gradle/caches/transforms-3/8c0e76404b5e9cdabe615ac57fccce89/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/emilio/.gradle/caches/transforms-3/8c0e76404b5e9cdabe615ac57fccce89/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/emilio/.gradle/caches/transforms-3/5ab69d4e108a7a01e579646b22f283d1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/emilio/.gradle/caches/transforms-3/5ab69d4e108a7a01e579646b22f283d1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/emilio/.gradle/caches/transforms-3/fdf58d8f9282181c066480e9b34b1a37/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/emilio/.gradle/caches/transforms-3/fdf58d8f9282181c066480e9b34b1a37/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/emilio/.gradle/caches/transforms-3/6639e39c66392f5266da5f49166271b3/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/emilio/.gradle/caches/transforms-3/6639e39c66392f5266da5f49166271b3/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/emilio/.gradle/caches/transforms-3/c134699258f343d8318c0c61e15c52ac/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/emilio/.gradle/caches/transforms-3/c134699258f343d8318c0c61e15c52ac/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/emilio/.gradle/caches/transforms-3/255119093be46a18e602228787ca2e20/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/emilio/.gradle/caches/transforms-3/255119093be46a18e602228787ca2e20/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/emilio/.gradle/caches/transforms-3/a2d6d43d759a16e078280524cb27f9a7/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/emilio/.gradle/caches/transforms-3/a2d6d43d759a16e078280524cb27f9a7/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/emilio/.gradle/caches/transforms-3/610d48d6f0786fc2754c5ab8442fde56/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/emilio/.gradle/caches/transforms-3/610d48d6f0786fc2754c5ab8442fde56/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/emilio/.gradle/caches/transforms-3/b748112f73bd80e1291ddf6dcc14fe52/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/emilio/.gradle/caches/transforms-3/b748112f73bd80e1291ddf6dcc14fe52/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/emilio/.gradle/caches/transforms-3/a30b261e563c45430550698c4a5498df/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/emilio/.gradle/caches/transforms-3/a30b261e563c45430550698c4a5498df/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/emilio/.gradle/caches/transforms-3/6d6a02cd04bc02d41ee60ef7dca5f168/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/emilio/.gradle/caches/transforms-3/6d6a02cd04bc02d41ee60ef7dca5f168/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/emilio/.gradle/caches/transforms-3/92b378fed2c7ad5d0dc31b9e1ebba952/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/emilio/.gradle/caches/transforms-3/92b378fed2c7ad5d0dc31b9e1ebba952/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.7] /Users/emilio/.gradle/caches/transforms-3/d3610de1296d77f601741f88f400f9fb/transformed/jetified-exoplayer-datasource-2.18.7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.7] /Users/emilio/.gradle/caches/transforms-3/d3610de1296d77f601741f88f400f9fb/transformed/jetified-exoplayer-datasource-2.18.7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.7] /Users/emilio/.gradle/caches/transforms-3/951f6eacc45c4e0682f7ce0c62d7586f/transformed/jetified-exoplayer-extractor-2.18.7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.7] /Users/emilio/.gradle/caches/transforms-3/951f6eacc45c4e0682f7ce0c62d7586f/transformed/jetified-exoplayer-extractor-2.18.7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.7] /Users/emilio/.gradle/caches/transforms-3/b30703af6f3a8d8e5064d25f75617de0/transformed/jetified-exoplayer-decoder-2.18.7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.7] /Users/emilio/.gradle/caches/transforms-3/b30703af6f3a8d8e5064d25f75617de0/transformed/jetified-exoplayer-decoder-2.18.7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.7] /Users/emilio/.gradle/caches/transforms-3/f5f67325390bda71f6659e8d38c6c560/transformed/jetified-exoplayer-database-2.18.7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.7] /Users/emilio/.gradle/caches/transforms-3/f5f67325390bda71f6659e8d38c6c560/transformed/jetified-exoplayer-database-2.18.7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.7] /Users/emilio/.gradle/caches/transforms-3/9354730f886cca1c166eb08d35814319/transformed/jetified-exoplayer-common-2.18.7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.7] /Users/emilio/.gradle/caches/transforms-3/9354730f886cca1c166eb08d35814319/transformed/jetified-exoplayer-common-2.18.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/emilio/.gradle/caches/transforms-3/6f6c99620269cf0645b8cf4d98dca92d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/emilio/.gradle/caches/transforms-3/6f6c99620269cf0645b8cf4d98dca92d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/emilio/.gradle/caches/transforms-3/d527349b99caec46f6a37ce2d52a171e/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/emilio/.gradle/caches/transforms-3/d527349b99caec46f6a37ce2d52a171e/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/emilio/.gradle/caches/transforms-3/a2738b89791afdebeaf2f7eba04cd3ca/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/emilio/.gradle/caches/transforms-3/a2738b89791afdebeaf2f7eba04cd3ca/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/emilio/.gradle/caches/transforms-3/2e26f5f4343ced41f38ab6f6d0607e9e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/emilio/.gradle/caches/transforms-3/2e26f5f4343ced41f38ab6f6d0607e9e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/emilio/.gradle/caches/transforms-3/639b829122509808ff6ab88542ed517c/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/emilio/.gradle/caches/transforms-3/639b829122509808ff6ab88542ed517c/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/emilio/.gradle/caches/transforms-3/56b52afad4fcfc01287173610f91042f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/emilio/.gradle/caches/transforms-3/56b52afad4fcfc01287173610f91042f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/emilio/.gradle/caches/transforms-3/22670db4e2b57ab0d82176a7a68de36a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/emilio/.gradle/caches/transforms-3/22670db4e2b57ab0d82176a7a68de36a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/emilio/.gradle/caches/transforms-3/8d03a0b64560754b8a48fcfc51e947ae/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/emilio/.gradle/caches/transforms-3/8d03a0b64560754b8a48fcfc51e947ae/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/emilio/.gradle/caches/transforms-3/5338b61fb9219c159361b89580f08771/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/emilio/.gradle/caches/transforms-3/5338b61fb9219c159361b89580f08771/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/emilio/.gradle/caches/transforms-3/eac0a55363fb8f08c3b6673c65baf6fc/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/emilio/.gradle/caches/transforms-3/eac0a55363fb8f08c3b6673c65baf6fc/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/emilio/.gradle/caches/transforms-3/31044b20c555ee37543c9e3af10d65f9/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/emilio/.gradle/caches/transforms-3/31044b20c555ee37543c9e3af10d65f9/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/emilio/.gradle/caches/transforms-3/33e08ea0cc9fd5d059167265056b1f01/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/emilio/.gradle/caches/transforms-3/33e08ea0cc9fd5d059167265056b1f01/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/emilio/.gradle/caches/transforms-3/cdf1e8c032ad5a7eddaa93f9b56918b8/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/emilio/.gradle/caches/transforms-3/cdf1e8c032ad5a7eddaa93f9b56918b8/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml
+activity#com.emilio.status_saver.MainActivity
+ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:15:9-35:20
+	android:launchMode
+		ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:18:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:21:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:22:13-55
+	android:exported
+		ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:17:13-36
+	android:configChanges
+		ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:20:13-163
+	android:theme
+		ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:19:13-47
+	android:name
+		ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:16:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:27:13-30:17
+	android:resource
+		ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:29:15-52
+	android:name
+		ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:28:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:32:17-68
+	android:name
+		ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:33:17-76
+	android:name
+		ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:33:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:38:9-40:33
+	android:value
+		ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:40:13-30
+	android:name
+		ADDED from /Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:39:13-44
+provider#io.flutter.plugins.share.ShareFileProvider
+ADDED from [:share] /Users/emilio/Projects/status_saver_bloc/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:share] /Users/emilio/Projects/status_saver_bloc/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:share] /Users/emilio/Projects/status_saver_bloc/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:share] /Users/emilio/Projects/status_saver_bloc/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:share] /Users/emilio/Projects/status_saver_bloc/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:9:13-70
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:share] /Users/emilio/Projects/status_saver_bloc/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-15:68
+	android:resource
+		ADDED from [:share] /Users/emilio/Projects/status_saver_bloc/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:15:17-65
+	android:name
+		ADDED from [:share] /Users/emilio/Projects/status_saver_bloc/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:14:17-67
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/emilio/.gradle/caches/transforms-3/518111e08d93c16bc666f5016f25f03d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/emilio/.gradle/caches/transforms-3/518111e08d93c16bc666f5016f25f03d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/emilio/.gradle/caches/transforms-3/518111e08d93c16bc666f5016f25f03d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/emilio/.gradle/caches/transforms-3/518111e08d93c16bc666f5016f25f03d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/emilio/.gradle/caches/transforms-3/518111e08d93c16bc666f5016f25f03d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/emilio/.gradle/caches/transforms-3/518111e08d93c16bc666f5016f25f03d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.18.7] /Users/emilio/.gradle/caches/transforms-3/31ca3cba99de61d8e796213014c1b16c/transformed/jetified-exoplayer-core-2.18.7/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.7] /Users/emilio/.gradle/caches/transforms-3/9354730f886cca1c166eb08d35814319/transformed/jetified-exoplayer-common-2.18.7/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.7] /Users/emilio/.gradle/caches/transforms-3/9354730f886cca1c166eb08d35814319/transformed/jetified-exoplayer-common-2.18.7/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.18.7] /Users/emilio/.gradle/caches/transforms-3/31ca3cba99de61d8e796213014c1b16c/transformed/jetified-exoplayer-core-2.18.7/AndroidManifest.xml:24:22-76

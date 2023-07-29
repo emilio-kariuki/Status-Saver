@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.emilio.status_saver.app-mergeReleaseResources-14:/values-iw/values-iw.xml",
+            "map": [
+                {
+                    "source": "/Users/emilio/.gradle/caches/transforms-3/31ca3cba99de61d8e796213014c1b16c/transformed/jetified-exoplayer-core-2.18.7/res/values-iw/values-iw.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,120,179,246,311,385,447,527,607",
+                        "endColumns": "64,58,66,64,73,61,79,79,61",
+                        "endOffsets": "115,174,241,306,380,442,522,602,664"
+                    }
+                },
+                {
+                    "source": "/Users/emilio/.gradle/caches/transforms-3/92b378fed2c7ad5d0dc31b9e1ebba952/transformed/core-1.7.0/res/values-iw/values-iw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "669",
+                        "endColumns": "100",
+                        "endOffsets": "765"
+                    }
+                }
+            ]
+        }
+    ]
+}

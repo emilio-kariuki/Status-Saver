@@ -1,0 +1,14 @@
+io.flutter.plugins.videoplayer.video_player_android-jetified-window-java-1.0.0-beta04-0 /Users/emilio/.gradle/caches/transforms-3/2bd4bcf7edde35867619ac3bea578f90/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.videoplayer.video_player_android-jetified-exoplayer-core-2.18.7-1 /Users/emilio/.gradle/caches/transforms-3/31ca3cba99de61d8e796213014c1b16c/transformed/jetified-exoplayer-core-2.18.7/res
+io.flutter.plugins.videoplayer.video_player_android-jetified-window-1.0.0-beta04-2 /Users/emilio/.gradle/caches/transforms-3/518111e08d93c16bc666f5016f25f03d/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.videoplayer.video_player_android-core-1.7.0-3 /Users/emilio/.gradle/caches/transforms-3/92b378fed2c7ad5d0dc31b9e1ebba952/transformed/core-1.7.0/res
+io.flutter.plugins.videoplayer.video_player_android-jetified-annotation-experimental-1.1.0-4 /Users/emilio/.gradle/caches/transforms-3/cdf1e8c032ad5a7eddaa93f9b56918b8/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.videoplayer.video_player_android-lifecycle-runtime-2.3.1-5 /Users/emilio/.gradle/caches/transforms-3/d527349b99caec46f6a37ce2d52a171e/transformed/lifecycle-runtime-2.3.1/res
+io.flutter.plugins.videoplayer.video_player_android-main-6 /Users/emilio/.pub-cache/hosted/pub.dev/video_player_android-2.4.9/android/src/main/res
+io.flutter.plugins.videoplayer.video_player_android-release-7 /Users/emilio/.pub-cache/hosted/pub.dev/video_player_android-2.4.9/android/src/release/res
+io.flutter.plugins.videoplayer.video_player_android-pngs-8 /Users/emilio/Projects/status_saver_bloc/build/video_player_android/generated/res/pngs/release
+io.flutter.plugins.videoplayer.video_player_android-resValues-9 /Users/emilio/Projects/status_saver_bloc/build/video_player_android/generated/res/resValues/release
+io.flutter.plugins.videoplayer.video_player_android-rs-10 /Users/emilio/Projects/status_saver_bloc/build/video_player_android/generated/res/rs/release
+io.flutter.plugins.videoplayer.video_player_android-mergeReleaseResources-11 /Users/emilio/Projects/status_saver_bloc/build/video_player_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.videoplayer.video_player_android-mergeReleaseResources-12 /Users/emilio/Projects/status_saver_bloc/build/video_player_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.videoplayer.video_player_android-merged_res-13 /Users/emilio/Projects/status_saver_bloc/build/video_player_android/intermediates/merged_res/release

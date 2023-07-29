@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "io.flutter.plugins.videoplayer.video_player_android-mergeReleaseResources-10:/values-b+sr+Latn/values-b+sr+Latn.xml",
+            "map": [
+                {
+                    "source": "/Users/emilio/.gradle/caches/transforms-3/31ca3cba99de61d8e796213014c1b16c/transformed/jetified-exoplayer-core-2.18.7/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,130,191,256,328,407,480,568,652",
+                        "endColumns": "74,60,64,71,78,72,87,83,74",
+                        "endOffsets": "125,186,251,323,402,475,563,647,722"
+                    }
+                },
+                {
+                    "source": "/Users/emilio/.gradle/caches/transforms-3/92b378fed2c7ad5d0dc31b9e1ebba952/transformed/core-1.7.0/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "727",
+                        "endColumns": "100",
+                        "endOffsets": "823"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "io.flutter.plugins.videoplayer.video_player_android-merged_res-12:/values-b+sr+Latn/values-b+sr+Latn.xml",
+            "map": [
+                {
+                    "source": "/Users/emilio/.gradle/caches/transforms-3/31ca3cba99de61d8e796213014c1b16c/transformed/jetified-exoplayer-core-2.18.7/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,130,191,256,328,407,480,568,652",
+                        "endColumns": "74,60,64,71,78,72,87,83,74",
+                        "endOffsets": "125,186,251,323,402,475,563,647,722"
+                    }
+                },
+                {
+                    "source": "/Users/emilio/.gradle/caches/transforms-3/92b378fed2c7ad5d0dc31b9e1ebba952/transformed/core-1.7.0/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "727",
+                        "endColumns": "100",
+                        "endOffsets": "823"
+                    }
+                }
+            ]
+        }
+    ]
+}

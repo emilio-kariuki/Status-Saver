@@ -1,0 +1,4 @@
+#Sun Jul 30 02:50:10 EAT 2023
+base.0=/Users/emilio/Projects/status_saver_bloc/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

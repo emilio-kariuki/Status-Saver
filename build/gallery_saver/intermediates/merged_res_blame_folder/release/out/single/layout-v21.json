@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "carnegietechnologies.gallery_saver-merged_res-13:/layout-v21/notification_template_custom_big.xml",
+        "source": "carnegietechnologies.gallery_saver-core-1.6.0-4:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "carnegietechnologies.gallery_saver-merged_res-13:/layout-v21/notification_action_tombstone.xml",
+        "source": "carnegietechnologies.gallery_saver-core-1.6.0-4:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "carnegietechnologies.gallery_saver-merged_res-13:/layout-v21/notification_template_icon_group.xml",
+        "source": "carnegietechnologies.gallery_saver-core-1.6.0-4:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "carnegietechnologies.gallery_saver-merged_res-13:/layout-v21/notification_action.xml",
+        "source": "carnegietechnologies.gallery_saver-core-1.6.0-4:/layout-v21/notification_action.xml"
+    }
+]

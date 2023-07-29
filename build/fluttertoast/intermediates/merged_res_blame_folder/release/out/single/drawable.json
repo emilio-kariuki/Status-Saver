@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "io.github.ponnamkarthik.toast.fluttertoast-merged_res-10:/drawable/corner.xml",
+        "source": "io.github.ponnamkarthik.toast.fluttertoast-main-4:/drawable/corner.xml"
+    },
+    {
+        "merged": "io.github.ponnamkarthik.toast.fluttertoast-merged_res-10:/drawable/notification_icon_background.xml",
+        "source": "io.github.ponnamkarthik.toast.fluttertoast-core-1.6.0-2:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "io.github.ponnamkarthik.toast.fluttertoast-merged_res-10:/drawable/notification_bg.xml",
+        "source": "io.github.ponnamkarthik.toast.fluttertoast-core-1.6.0-2:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "io.github.ponnamkarthik.toast.fluttertoast-merged_res-10:/drawable/notification_tile_bg.xml",
+        "source": "io.github.ponnamkarthik.toast.fluttertoast-core-1.6.0-2:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "io.github.ponnamkarthik.toast.fluttertoast-merged_res-10:/drawable/notification_bg_low.xml",
+        "source": "io.github.ponnamkarthik.toast.fluttertoast-core-1.6.0-2:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "io.github.ponnamkarthik.toast.fluttertoast-merged_res-10:/drawable/toast_bg.xml",
+        "source": "io.github.ponnamkarthik.toast.fluttertoast-main-4:/drawable/toast_bg.xml"
+    }
+]

@@ -1,0 +1,128 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.emilio.status_saver"
+4    android:versionCode="1"
+5    android:versionName="0.1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:3:5-66
+11-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:3:22-64
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:4:5-79
+12-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:4:22-77
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:5:5-80
+13-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:5:22-78
+14    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+14-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:6:5-76
+14-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:6:22-74
+15    <uses-permission
+15-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:7:5-9:38
+16        android:name="android.permission.MANAGE_EXTERNAL_STORAGE"
+16-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:8:9-66
+17        android:minSdkVersion="30" />
+17-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:9:9-35
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->[com.google.android.exoplayer:exoplayer-core:2.18.7] /Users/emilio/.gradle/caches/transforms-3/31ca3cba99de61d8e796213014c1b16c/transformed/jetified-exoplayer-core-2.18.7/AndroidManifest.xml:24:5-79
+18-->[com.google.android.exoplayer:exoplayer-core:2.18.7] /Users/emilio/.gradle/caches/transforms-3/31ca3cba99de61d8e796213014c1b16c/transformed/jetified-exoplayer-core-2.18.7/AndroidManifest.xml:24:22-76
+19
+20    <application
+21        android:name="android.app.Application"
+21-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:13:9-42
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.7.0] /Users/emilio/.gradle/caches/transforms-3/92b378fed2c7ad5d0dc31b9e1ebba952/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+23        android:icon="@mipmap/ic_launcher"
+23-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:14:9-43
+24        android:label="Status Saver" >
+24-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:12:9-37
+25        <activity
+25-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:15:9-35:20
+26            android:name="com.emilio.status_saver.MainActivity"
+26-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:16:13-41
+27            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+27-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:20:13-163
+28            android:exported="true"
+28-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:17:13-36
+29            android:hardwareAccelerated="true"
+29-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:21:13-47
+30            android:launchMode="singleTop"
+30-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:18:13-43
+31            android:theme="@style/LaunchTheme"
+31-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:19:13-47
+32            android:windowSoftInputMode="adjustResize" >
+32-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:22:13-55
+33
+34            <!--
+35                 Specifies an Android theme to apply to this Activity as soon as
+36                 the Android process has started. This theme is visible to the user
+37                 while the Flutter UI initializes. After that, this theme continues
+38                 to determine the Window background behind the Flutter UI.
+39            -->
+40            <meta-data
+40-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:27:13-30:17
+41                android:name="io.flutter.embedding.android.NormalTheme"
+41-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:28:15-70
+42                android:resource="@style/NormalTheme" />
+42-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:29:15-52
+43
+44            <intent-filter>
+44-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:31:13-34:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:32:17-68
+45-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:32:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:33:17-76
+47-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:33:27-74
+48            </intent-filter>
+49        </activity>
+50        <!--
+51             Don't delete the meta-data below.
+52             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+53        -->
+54        <meta-data
+54-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:38:9-40:33
+55            android:name="flutterEmbedding"
+55-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:39:13-44
+56            android:value="2" />
+56-->/Users/emilio/Projects/status_saver_bloc/android/app/src/main/AndroidManifest.xml:40:13-30
+57
+58        <provider
+58-->[:share] /Users/emilio/Projects/status_saver_bloc/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:8:9-16:20
+59            android:name="io.flutter.plugins.share.ShareFileProvider"
+59-->[:share] /Users/emilio/Projects/status_saver_bloc/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:9:13-70
+60            android:authorities="com.emilio.status_saver.flutter.share_provider"
+60-->[:share] /Users/emilio/Projects/status_saver_bloc/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:10:13-74
+61            android:exported="false"
+61-->[:share] /Users/emilio/Projects/status_saver_bloc/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-37
+62            android:grantUriPermissions="true" >
+62-->[:share] /Users/emilio/Projects/status_saver_bloc/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-47
+63            <meta-data
+63-->[:share] /Users/emilio/Projects/status_saver_bloc/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-15:68
+64                android:name="android.support.FILE_PROVIDER_PATHS"
+64-->[:share] /Users/emilio/Projects/status_saver_bloc/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:14:17-67
+65                android:resource="@xml/flutter_share_file_paths" />
+65-->[:share] /Users/emilio/Projects/status_saver_bloc/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:15:17-65
+66        </provider>
+67
+68        <uses-library
+68-->[androidx.window:window:1.0.0-beta04] /Users/emilio/.gradle/caches/transforms-3/518111e08d93c16bc666f5016f25f03d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+69            android:name="androidx.window.extensions"
+69-->[androidx.window:window:1.0.0-beta04] /Users/emilio/.gradle/caches/transforms-3/518111e08d93c16bc666f5016f25f03d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+70            android:required="false" />
+70-->[androidx.window:window:1.0.0-beta04] /Users/emilio/.gradle/caches/transforms-3/518111e08d93c16bc666f5016f25f03d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+71        <uses-library
+71-->[androidx.window:window:1.0.0-beta04] /Users/emilio/.gradle/caches/transforms-3/518111e08d93c16bc666f5016f25f03d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+72            android:name="androidx.window.sidecar"
+72-->[androidx.window:window:1.0.0-beta04] /Users/emilio/.gradle/caches/transforms-3/518111e08d93c16bc666f5016f25f03d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+73            android:required="false" />
+73-->[androidx.window:window:1.0.0-beta04] /Users/emilio/.gradle/caches/transforms-3/518111e08d93c16bc666f5016f25f03d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+74    </application>
+75
+76</manifest>

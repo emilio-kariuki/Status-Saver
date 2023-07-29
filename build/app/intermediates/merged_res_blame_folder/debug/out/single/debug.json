@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.emilio.status_saver.app-main-10:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/drawable-v21_launch_background.xml.flat",
+        "source": "com.emilio.status_saver.app-main-10:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.emilio.status_saver.app-main-10:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.emilio.status_saver.app-main-10:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.emilio.status_saver.app-main-10:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.emilio.status_saver.app-main-10:/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

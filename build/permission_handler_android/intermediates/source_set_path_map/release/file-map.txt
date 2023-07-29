@@ -1,0 +1,12 @@
+com.baseflow.permissionhandler.permission_handler_android-jetified-window-java-1.0.0-beta04-0 /Users/emilio/.gradle/caches/transforms-3/2bd4bcf7edde35867619ac3bea578f90/transformed/jetified-window-java-1.0.0-beta04/res
+com.baseflow.permissionhandler.permission_handler_android-jetified-window-1.0.0-beta04-1 /Users/emilio/.gradle/caches/transforms-3/518111e08d93c16bc666f5016f25f03d/transformed/jetified-window-1.0.0-beta04/res
+com.baseflow.permissionhandler.permission_handler_android-core-1.6.0-2 /Users/emilio/.gradle/caches/transforms-3/9ae990dd2d4353842bc15594b2d8f0d6/transformed/core-1.6.0/res
+com.baseflow.permissionhandler.permission_handler_android-jetified-annotation-experimental-1.1.0-3 /Users/emilio/.gradle/caches/transforms-3/cdf1e8c032ad5a7eddaa93f9b56918b8/transformed/jetified-annotation-experimental-1.1.0/res
+com.baseflow.permissionhandler.permission_handler_android-main-4 /Users/emilio/.pub-cache/hosted/pub.dev/permission_handler_android-10.3.3/android/src/main/res
+com.baseflow.permissionhandler.permission_handler_android-release-5 /Users/emilio/.pub-cache/hosted/pub.dev/permission_handler_android-10.3.3/android/src/release/res
+com.baseflow.permissionhandler.permission_handler_android-pngs-6 /Users/emilio/Projects/status_saver_bloc/build/permission_handler_android/generated/res/pngs/release
+com.baseflow.permissionhandler.permission_handler_android-resValues-7 /Users/emilio/Projects/status_saver_bloc/build/permission_handler_android/generated/res/resValues/release
+com.baseflow.permissionhandler.permission_handler_android-rs-8 /Users/emilio/Projects/status_saver_bloc/build/permission_handler_android/generated/res/rs/release
+com.baseflow.permissionhandler.permission_handler_android-mergeReleaseResources-9 /Users/emilio/Projects/status_saver_bloc/build/permission_handler_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.baseflow.permissionhandler.permission_handler_android-mergeReleaseResources-10 /Users/emilio/Projects/status_saver_bloc/build/permission_handler_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.baseflow.permissionhandler.permission_handler_android-merged_res-11 /Users/emilio/Projects/status_saver_bloc/build/permission_handler_android/intermediates/merged_res/release

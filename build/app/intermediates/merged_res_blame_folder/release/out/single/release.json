@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/layout_custom_dialog.xml.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/menu_example_menu.xml.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/menu/example_menu.xml"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "com.emilio.status_saver.app-media-1.0.0-6:/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/drawable_toast_bg.xml.flat",
+        "source": "com.emilio.status_saver.app-packaged_res-17:/drawable/toast_bg.xml"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/layout_notification_media_action.xml.flat",
+        "source": "com.emilio.status_saver.app-media-1.0.0-6:/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/layout_notification_template_big_media.xml.flat",
+        "source": "com.emilio.status_saver.app-media-1.0.0-6:/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/drawable_notification_icon_background.xml.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/layout_notification_template_part_chronometer.xml.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/xml_flutter_share_file_paths.xml.flat",
+        "source": "com.emilio.status_saver.app-packaged_res-21:/xml/flutter_share_file_paths.xml"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/layout_notification_template_media_custom.xml.flat",
+        "source": "com.emilio.status_saver.app-media-1.0.0-6:/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/drawable_corner.xml.flat",
+        "source": "com.emilio.status_saver.app-packaged_res-17:/drawable/corner.xml"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.emilio.status_saver.app-main-9:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/layout-v21_notification_action.xml.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/drawable-v21_notification_action_background.xml.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/drawable-v21_launch_background.xml.flat",
+        "source": "com.emilio.status_saver.app-main-9:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.emilio.status_saver.app-main-9:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/layout_notification_media_cancel_action.xml.flat",
+        "source": "com.emilio.status_saver.app-media-1.0.0-6:/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/layout_notification_template_big_media_custom.xml.flat",
+        "source": "com.emilio.status_saver.app-media-1.0.0-6:/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/layout_notification_template_lines_media.xml.flat",
+        "source": "com.emilio.status_saver.app-media-1.0.0-6:/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "com.emilio.status_saver.app-media-1.0.0-6:/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/layout_notification_template_part_time.xml.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/drawable_notification_bg_low.xml.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/layout_notification_template_media.xml.flat",
+        "source": "com.emilio.status_saver.app-media-1.0.0-6:/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.emilio.status_saver.app-main-9:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.emilio.status_saver.app-main-9:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/menu_example_menu2.xml.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/menu/example_menu2.xml"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/drawable_notification_bg.xml.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/layout_toast_custom.xml.flat",
+        "source": "com.emilio.status_saver.app-packaged_res-17:/layout/toast_custom.xml"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.emilio.status_saver.app-main-9:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.emilio.status_saver.app-merged_res-16:/drawable_notification_tile_bg.xml.flat",
+        "source": "com.emilio.status_saver.app-core-1.7.0-4:/drawable/notification_tile_bg.xml"
+    }
+]
