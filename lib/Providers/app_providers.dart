@@ -1,7 +1,6 @@
 // ignore_for_file: use_build_context_synchronously
 
 import 'package:flutter/material.dart';
-import 'package:status_saver/Repository/extension.dart';
 import 'package:status_saver/Repository/services.dart';
 import 'package:video_player/video_player.dart';
 
@@ -64,7 +63,6 @@ class AppProviders extends ChangeNotifier {
               Text("Video saved successfully"),
             ],
           )));
-          
       isSaved = true;
       notifyListeners();
 
